@@ -26,6 +26,8 @@ dependencies = [
     "prompt-toolkit>=3.0.48,<4",
     "jsonref>=1.1.0,<2",
     "tenacity==9.0.0",
+    "asyncpg>=0.30.0",
+    "psycopg2>=2.9.10",
 ]
 
 [project.urls]
